@@ -1,3 +1,3 @@
 # Product-Recommandation
 
-Market Basket Ana;ysis and Product Recommandation based on UCI purchase data
+Market Basket Analysis and Product Recommandation based on UCI purchase data
